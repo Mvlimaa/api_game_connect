@@ -12,8 +12,9 @@ Docker Desktop
 1. Clonar o Repositório
 Bash
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/Mvlimaa/api_game_connect
+cd api_game_connect
+
 2. Criar o Arquivo .env
 O Docker precisa das suas chaves secretas para rodar a aplicação. Copie o arquivo de exemplo:
 
@@ -62,8 +63,8 @@ PostgreSQL (instalado, rodando e com um banco de dados gameconnect criado)
 1. Clonar e Criar o Ambiente Virtual
 Bash
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/Mvlimaa/api_game_connect
+cd api_game_connect
 
 # Criar o ambiente virtual
 python -m venv venv
